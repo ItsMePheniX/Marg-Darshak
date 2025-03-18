@@ -1,0 +1,7 @@
+#!below command to install the required python packages
+#pip install -r requirements.txt
+opencv-python
+ultralytics
+pyttsx3
+picamera2
+flask
